@@ -10,6 +10,15 @@ O dataset utilizado contém informações de vendas em diferentes filiais de uma
 
 O projeto inclui os seguintes passos principais:
 
+### 0. **Análise, Criação de KPI's e Dashboard Interativo com Power BI**
+
+Você pode ver o relatório final clicando no link abaixo:
+
+[📄 Ver apresentação em PDF](https://github.com/CaioJulioBNG/previsao-de-vendas-sazonais/blob/main/Presentation.pdf)
+
+Esse relatório contém uma analise descritiva e exploratória de vendas, contendo diversos fatores, como temporais, sazonalidade,análise geográfica etc...
+Além das análises realizadas, foi realizado um planos de ação baseados em dados
+
 ### 1. **Limpeza e Preparação dos Dados**
 
 - **Renomeação das colunas**: As colunas foram renomeadas para tornar os dados mais legíveis, traduzindo os nomes das colunas para o português.
